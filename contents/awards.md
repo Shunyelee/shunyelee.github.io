@@ -1,9 +1,5 @@
-- First-prize Academic Scholarship, 2023.
+- Merit Student, 2024.
 
-- Freshman Academic Scholarship, 2022.
+- Third-prize National Mathematics Competition, 2020.
 
-- Excellent Graduation Project of Jiangsu Province, 2022.
-
-- First-prize Enterprise Scholarship, 2021.
-
-- First-prize Academic Scholarship, 2019.
+- First-prize Academic Scholarship, 2019-2020.

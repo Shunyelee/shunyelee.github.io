@@ -3,6 +3,7 @@
 [![shunyelee](https://img.shields.io/badge/shunyelee-github-blue?logo=github)](https://github.com/shunyelee)
 
 He received his Master Degree in Mathematics, at School of Mathmatical Sciences, Xiamen University, China.
+He was majored in engineering from 2016-2018, then he transferred to Mathematics. 
 
 #### Email
 19020211153398[at]stu.xmu.edu.cn

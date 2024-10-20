@@ -2,15 +2,15 @@
 
 [![shunyelee](https://img.shields.io/badge/shunyelee-github-blue?logo=github)](https://github.com/shunyelee)
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+He received his Master Degree in Mathematics, at School of Mathmatical Sciences, Xiamen University, China.
 
 #### Email
-sli[at]cumt.edu.cn
+19020211153398[at]stu.xmu.edu.cn
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+M.S., Mathematics, Xiamen University, 2021—2024.\
+B.S., Mathematics, China Agricultural University, 2016—2021.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Computational co-Homology, Data Science, Homology and Representation Theory.
 

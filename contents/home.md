@@ -12,5 +12,5 @@ M.S., Mathematics, Xiamen University, 2021—2024.\
 B.S., Mathematics, China Agricultural University, 2016—2021.
 
 #### Research Interests
-Computational Homology, Representation Theory.
+Topology Data Analysis, Representation Theory.
 
